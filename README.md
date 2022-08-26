@@ -9,3 +9,5 @@
 - Numpy
 - Plotly
 - Streamlit
+## Conclusions
+According to the data, my favorite artist is **Post Malone**!
